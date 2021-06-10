@@ -1,6 +1,6 @@
 # Technical Health Competency
 
-> **Note:** Skills & responsibilities cascades upwards in seniority, e.g. a _Senior_ is expected to have all the responsibilities of _Intermediate_ & _Junior_, a _Manager_ is expected to have & do everything listed.
+> **Note:** Skills & responsibilities cascade upwards in seniority, e.g. a _Senior_ is expected to have all the responsibilities of _Intermediate_ & _Junior_, a _Manager_ is expected to have & do everything listed.
 
 ## Reliable & Robust Systems
 

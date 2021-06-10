@@ -2,7 +2,7 @@
 
 ## Why
 
-In order to foster skill growth and guide team members to improve themselves and others, we document a set of core skills & competencies that each team member need to have or achieve in order to be effective
+In order to foster skill growth and guide team members to improve themselves and others, we document a set of core skills & competencies that each team member needs to have or achieve in order to be effective.
 
 ## What
 
