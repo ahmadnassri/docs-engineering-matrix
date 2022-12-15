@@ -6,15 +6,10 @@
 
 ### Feedback
 
-#### Junior
+#### Engineer 1
 
-> Actively seeks feedback through pull requests and pairing, and uses feedback from others as a tool for growth.
-
-#### Intermediate
-
-> Actively seeks feedback through pull requests and pairing, seeking from relevant domain experts.
-
-> Provides constructive, respectful feedback to other developers through PRs and pairing, uses feedback from others as a tool for growth and actively follows up on feedback given.
+- Actively seeks feedback through pull requests and pairing.
+- Effectively applies feedback received in their work and uses feedback as a tool for growth.
 
 #### Senior
 
@@ -36,18 +31,15 @@
 
 ### Knowledge Sharing
 
-#### Junior
+#### Engineer 1
 
-> Understands their area of work. Aims to share knowledge of their work and areas they have worked in frequently.
+- Understands their area of work. Frequently shares knowledge of their work and areas they have worked in.
 
-> Techniques can include presenting at demos, documentation, thorough descriptions in PRs, comments in tickets and contributions to the README
+##### Examples
 
-#### Intermediate
-
-> Understands their team's work domain. Frequently and actively shares knowledge of their work and areas they have worked in.
-> Watches for opportunities to share knowledge.
-
-> Techniques can include pairing, announcing new changes to the team, speaking about a topic, presenting at demos, documention, thorough descriptions in PRs, comments in tickets and contributions to the README
+- Consistently writes thorough pull requests descriptions
+- Contributing to the engineering wiki by writing documentation
+- Demos
 
 #### Senior
 
@@ -73,27 +65,12 @@
 
 ### Effective Communication
 
-#### Junior
+#### Engineer 1
 
-> Communicates effectively, clearly, concisely and in an audience-oriented way, in written and verbal form.
-
-> Communicates progress of work, escalates issues, rubber-ducks approaches to their work with a team member, and asks for help where needed.
-
-> Actively listens to others and ensures they are understood. Asks questions for clarification. Pays attention to nonverbal communication.
-
-#### Intermediate
-
-> Communicates effectively, clearly, concisely in written and verbal form both technical and non technical subjects, and in an audience-oriented way.
-
-> Communicates progress of work, escalates issues early and reaches out to a diverse set of people to get other perspectives on a complex design.
-
-> Demonstrates how to effectively communicate an idea, proposal, decision or counterpoint.
-
-> Offers solutions to problems rather than just communicating a problem.
-
-> Actively listens to others and ensures they are understood.
-
-> Asks thoughtful and considered questions in a respectful way. Pays attention to nonverbal communication.
+- Understands their role in the decision making process.
+- Can disagree and understand disagreement constructively and non-defensively.
+- Contributes to the discussion while fully embracing business solutions and committing to delivery.
+- Assumes good intent and competence.
 
 #### Senior
 
@@ -129,21 +106,10 @@
 
 ## Teamwork
 
-#### Junior
+#### Engineer 1
 
-> Helps their teammates when requested, volunteers themself for team tasks. Gives or shares credit where due.
+- Actively demonstrates a positive attitude, learns from mistakes and does not place blame on others.
 
-> Actively demonstrates a positive attitude, learns from mistakes and does not place blame on others.
-
-#### Intermediate
-
-> Helps their teammates overcome obstacles, resolve blockers, and complete work tasks without impacting their own work.
-
-> Aware of team's progress and reaches out to teammates if they notice someone has been stuck for a while.
-
-> Gives or shares credit where due.
-
-> Actively demonstrates a positive attitude, takes responsibility for mistakes and does not place blame on others
 
 #### Senior
 

@@ -46,15 +46,14 @@
 
 ### Distributed Systems
 
-#### Junior
+#### Engineer 1
 
-> Developing an understanding of the application(s) they work on in the tech stack.
+- Developing a deeper understanding of slices of the technology stack.
 
-#### Intermediate
+##### Examples
 
-> Understands how the applications within their context integrate with each other. Developing a deeper understanding of slices of the technology stack.
-
-> Developing an understanding of different techniques required for parts of the tech stack, for example data consistency, async tasks and availability of applications
+- Understands the dependencies between the microservices in the stack.
+- Aware of the different microservices in the stack and their business domain (the Why and the What).
 
 #### Senior
 
@@ -78,13 +77,13 @@
 
 ### Reliability & Observability
 
-#### Junior
+#### Engineer 1
 
-> N/A (not applicable at this level)
+- Is aware of the organization's monitoring philosophy and skilled with the monitoring tools
 
-#### Intermediate
+##### Examples
 
-> Is aware of the organisation's monitoring philosophy and skilled with the monitoring tools. Helps tune and change the monitoring on their team accordingly. Is aware of the operational data for their team's domain and uses it as a basis for suggesting stability and performance improvements.
+- Comfortable navigating the GCP Cloud Logging tool in the dashboard project.
 
 #### Senior
 
@@ -106,13 +105,15 @@
 
 ### Debugging
 
-#### Junior
+#### Engineer 1
 
-> Understands the basics of debugging and the tools used for it.
+- Understands the basics of debugging and the tools used for it
+- Uses a systematic approach to debug issues located within a single service
 
-#### Intermediate
+##### Examples
 
-> Uses a systematic approach to debug issues located within a single service.
+- Demonstrates ability to search error messages with Google or Stackoverflow.
+- Capable of identifying small problems in their workspace setup and resolving them accordingly.
 
 #### Senior
 
@@ -128,9 +129,9 @@
 
 ### Incident Response
 
-#### Junior
+#### Engineer 1
 
-> Learning to detect when there is an incident vs what is a lower priority bug
+- Learning to detect when there is an incident vs what is a lower priority bug
 
 #### Intermediate
 
@@ -160,13 +161,13 @@
 
 ### Understanding Code
 
-#### Junior
+#### Engineer 1
 
-> Gains context within team's domain with help from more senior engineers.
+- Understands their team's domain and can gather sufficient context to work productively within it.
 
-#### Intermediate
+##### Examples
 
-> Understands their team's domain and can gather sufficient context to work productively within it. Has expertise in a portion of their team's domain.
+- You are able to gain context within the team's domain with occasional help from more senior engineers. You are comfortable with the basics of code interface design and are learning to be more intentional.
 
 #### Senior
 
@@ -184,13 +185,15 @@
 
 ### API Design
 
-#### Junior
+#### Engineer 1
 
-> Understands API interfaces for GraphQL and REST APIs. Understands different formats used in an API. Able to query and update data via an API.
+- Understands API interfaces for REST APIs
+- Understands different formats used in an API
+- Able to query and update data via an API
 
-#### Intermediate
+##### Examples
 
-> Understands different API interfaces and formats and creates APIs for consumption.
+- Familiarity with OpenAPI Spec <https://spec.openapis.org/oas/latest.html>
 
 #### Senior
 
@@ -236,13 +239,17 @@
 
 ### Software Architecture
 
-#### Junior
+#### Engineer 1
 
-> Aware of domain architecture and designs basic functions to avoid code duplication and interface-breaking changes.
+- Is able to design basic functions, avoiding duplication across codebases and interface-breaking changes based on an understanding of the overall service architecture.
 
-#### Intermediate
+##### Examples
 
-> Designs functions considering how this fits into the overall architecture.
+- Reaction to feedback: You understand the feedback given and applies it consistently to your work.
+
+- Design: You are comfortable with the basics of code interface design, and are learning to be more intentional.
+
+- Technical debt: You can usually recognize technical debt and can pay it down when advised.
 
 #### Senior
 
@@ -262,13 +269,15 @@
 
 ### Code Reviews
 
-#### Junior
+#### Engineer 1
 
-> Learning to create reasonable sized PRs with the description of changes and testing conducted. Can read through PRs and provides respectful comments in PRs. May need help breaking down PRs and iterating from PR suggestions.
+- Consistently creates reasonable sized pull requests that contain description of changes and testing conducted.
+- Consistently responds constructively and respectfully in comments in pull requests.
 
-#### Intermediate
+##### Examples
 
-> Consistently creates reasonable sized PRs that contain description of changes and testing conducted. Consistently provides and responds constructively and respectfully in comments in PRs. Often provides meaningful suggestions in PRs.
+- Knows when and how to make use of git rebase
+- Capable of resolving merge conflicts in a feature branch
 
 #### Senior
 
@@ -309,13 +318,17 @@
 
 ### Testing
 
-#### Junior
+#### Engineer 1
 
-> Understands the testing pyramid, writes unit tests in accordance with it, with help from othes at times. Always tests expected edge cases and errors as well as the happy path.
+- Knows the testing pyramid. Writes unit tests, sometimes with help from more senior engineers.
+- Always tests expected edge cases and errors as well as the happy path.
 
-#### Intermediate
+##### Examples
 
-> Understands their Engineering team's testing approach, and uses quality metrics to identify gaps. Works with their team to recommend solutions that are in accordance with accepted testing frameworks and the testing pyramid.
+- Testing your code: You consistently write solid unit tests, sometimes with help from more senior engineers
+- Improving coverage: You've spotted small areas of low test coverage and patched them
+- Taking responsibility: You've consistently ensured that your code passes tests before creating or merging pull requests
+
 
 #### Senior
 
